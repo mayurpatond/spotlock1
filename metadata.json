@@ -1,0 +1,6 @@
+{
+  "name": "SpotLock - Local Stores, Daily Deals & Merchant Hub",
+  "description": "SpotLock is a hyper-local marketplace connecting shoppers with nearby store discounts, coupons, and interactive map, with a Tata Play-style prepaid subscription portal for store owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
